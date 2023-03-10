@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CharbelEsakr/sfg-Form.git/static/css/main.a3fefad5.css",
+    "main.js": "/CharbelEsakr/sfg-Form.git/static/js/main.15241937.js",
+    "index.html": "/CharbelEsakr/sfg-Form.git/index.html",
+    "main.a3fefad5.css.map": "/CharbelEsakr/sfg-Form.git/static/css/main.a3fefad5.css.map",
+    "main.15241937.js.map": "/CharbelEsakr/sfg-Form.git/static/js/main.15241937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3fefad5.css",
+    "static/js/main.15241937.js"
+  ]
+}
